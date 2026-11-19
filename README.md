@@ -160,9 +160,12 @@ Application screenshots and demonstrations will be added here as development pro
 
 Project Contributors:
 
-- Srushti Zalpe
 - Riya Surushe
+- Srushti Zalpe
 - Aasaavari Kasture
+- Sakshi Kanherkar
+- Rani Pradhan
+- Tanvi Kokate
 
 ## 11. Project Vision
 
